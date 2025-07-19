@@ -19,3 +19,15 @@ npm install
 yarn install
 # или
 pnpm install
+```
+
+
+2. Запустите сервер разработки:
+
+```bash
+npm run dev
+# или
+yarn dev
+# или
+pnpm dev
+```
